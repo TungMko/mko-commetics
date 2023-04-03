@@ -539,9 +539,19 @@ a.btn {
         width: 100%;
         margin-bottom: 6px;
     }
+    .content-box {
+        height: 450px;
+    }
     .content {
-        min-height: 70vh;
+        min-height: 90vh;
         width: 100%;
+    }
+    .conten-wap h1{
+        font-size: 10px;
+    }
+    button.btn {
+        width: 250px;
+        padding: 20px 1px 17px 16px;
     }
     .head #navbar ul li {
         margin: 0px;
