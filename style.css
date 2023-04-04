@@ -632,7 +632,10 @@ a.btn {
         margin-top: 20px;
     }
     .pro-container .pro{
-        width: 100%;
+        width: 48%;
+    }
+    .product .pro .cart{
+        bottom: 0;
     }
     .product_gird{
         display: flex;
